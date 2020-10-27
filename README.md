@@ -1,7 +1,5 @@
 # Railway Operation Simulator Template Map 
-A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
-
-**NOTE: Asynchronous route building is NOT supported, `.rly` files are not designed such that two versions can be combined by git. For route development contribution you must instead alternate between contributor making sure to pull the latest version before adding to it yourself.**
+Bushey Heath is a representation of an incomplete extension as part of the Northern Heights Plan.
 
 |[Edit this README and Remove this table] This repository should contain ultimately:|
 |:-------|
