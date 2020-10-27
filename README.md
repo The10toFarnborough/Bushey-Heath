@@ -2,15 +2,6 @@
 
 A representation of an incomplete extension that was to be part of the Northern line.
 
-*This repository should contain ultimately:
-
-- An image of the route in BMP format within the `Images` folder
-- The completed railway `.rly` file or if in development `.dev` file in the `Railway` folder.
-- A complete timetable within the `Program_Timetables` folder 
-- A session for the relevant timetable with preferred directions set.
-- Documentation describing background to the route and operations tips within the `Documentation` folder. This can include any maps/useful information as well. The recommended format for the documentation is PDF to be universally accessible.
-- Optionally a `Signal.hnd` file as a hint to what side signals are traditionally placed on the route.*
-
 [Image of Current State of Map](Images/image_name.bmp)
 
 ## Current Status
