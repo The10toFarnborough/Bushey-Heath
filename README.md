@@ -1,7 +1,6 @@
 # Bushey-Heath
 
-# Railway Operation Simulator Template Map 
-A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
+A representation of an incomplete extension that was to be part of the Northern line.
 
 *This repository should contain ultimately:
 
@@ -18,17 +17,15 @@ A brief description of what the map represents, including era, whether the route
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
-| Naming | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">      |
-| Speed Limits | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Distances | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
+| Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
+| Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- ["By Tube Beyond Edgware" by Tony Beard](https://www.amazon.co.uk/Tube-Beyond-Edgware-Tony-Beard/dp/1854142461)
