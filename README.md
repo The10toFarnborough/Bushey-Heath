@@ -4,7 +4,7 @@ A representation of an incomplete extension that was to be part of the Northern 
 
 [Image of Current State of Map]
 
-<img src="RailwayImage 27-10-2020 20.02.26; Bushey Heath.bmp">
+(Images/RailwayImage 27-10-2020 20.02.26; Bushey Heath.bmp)
 
 ## Current Status
 
