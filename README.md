@@ -2,7 +2,7 @@
 
 A representation of an incomplete extension that was to be part of the Northern line.
 
-[Image of Current State of Map](Images/image_name.bmp)
+[Image of Current State of Map](Images/RailwayImage 27-10-2020 20.02.26; Bushey Heath.bmp)
 
 ## Current Status
 
